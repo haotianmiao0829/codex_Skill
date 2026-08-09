@@ -1,0 +1,4 @@
+interface:
+  display_name: "职场回复助手"
+  short_description: "帮你写稳妥、自然、可直接发送的职场回复，并持续吸收你的表达偏好"
+  default_prompt: "Use $workplace-reply to draft a concise workplace reply, explain only essential risks, and learn my preference when I explicitly correct the wording."
