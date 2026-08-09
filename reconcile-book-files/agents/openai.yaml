@@ -1,0 +1,4 @@
+interface:
+  display_name: "书籍 CSV 与文件对账"
+  short_description: "清理书目字段并让 CSV 与本地书籍文件安全地一一对应"
+  default_prompt: "使用 $reconcile-book-files 核验并整理书籍 CSV 与实际文件，先干运行再安全重命名。"
